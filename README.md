@@ -270,9 +270,9 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ## Contact
 
-**Project Repository:** https://github.com/sonakshikumari/skoolmate
+**Project Repository:** https://github.com/sonakshikumari600/skoolmate
 
-**Issues and Support:** https://github.com/sonakshikumari/skoolmate/issues
+**Issues and Support:** https://github.com/sonakshikumari600/skoolmate/issues
 
 ## Acknowledgments
 
