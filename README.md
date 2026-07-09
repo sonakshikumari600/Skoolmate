@@ -282,7 +282,6 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ---
 Made by the SheShines
-Mani Chauhan 
-Poorva Chauhan
+
 
 **Note:** This project requires Firebase configuration before running. See [Firebase Configuration](#firebase-configuration) section for setup instructions.
