@@ -282,7 +282,6 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ---
 Made by the SheShines
-Sonakshi Kumari 
 Mani Chauhan 
 Poorva Chauhan
 
