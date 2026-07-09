@@ -281,7 +281,7 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 - All contributors to this project
 
 ---
-Made by the skoolmate team
+Made by the SheShines
 Sonakshi Kumari 
 Mani Chauhan 
 Poorva Chauhan
